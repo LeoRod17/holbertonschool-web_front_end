@@ -49,8 +49,7 @@
         font-weight: var(--font-weight-bold);
     }
     .container{
-        margin-left: 960px;
-        margin-right: 960px;
+        margin: 960px;
     }
     h1,h2,h3,h4,h5,h6{
         font-family: var(--font-family-title);
