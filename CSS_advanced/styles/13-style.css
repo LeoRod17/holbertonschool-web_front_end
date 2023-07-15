@@ -16,16 +16,13 @@ a:link{
     text-decoration: none;
 }
 a:visited {
-    color: #161616;
     font-style: italic;
 }
 a:hover {
-    color: #161616;
     text-decoration: underline;
 }
 a:active {
-    color: #161616;
-    background-color: color-light-grey;
+    background-color: var(--color-light-grey);
 }
 .visually-hidden{
     display: none;
