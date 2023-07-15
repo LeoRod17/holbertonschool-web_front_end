@@ -112,7 +112,7 @@
         --nav-item-font-size: var(--font-size-medium);
         --nav-item-letter-spacing: 0.04rem;
         --nav-item-display: inline-block;
-        --nav-item-margin: 3rem;
+        --nav-item-margin: 0 0 3rem 0;
         --nav-item-link-hover: var(--color-primary);
 
     }
@@ -140,7 +140,7 @@
         padding-left: 1rem;
         padding-left: 1rem;
     }
-    .nav-link:hover{
+    .nav .nav-link :hover{
         color: var(--nav-item-link-hover);
     }
     
