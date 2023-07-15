@@ -1,5 +1,7 @@
 /*Centering the section titles to the CSS File :)*/
-
+* {
+box-sizing: border-box;
+}
 html{
     scroll-behavior: smooth;
     font-size: 62.5%;
@@ -98,7 +100,6 @@ h1,h2,h3,h4,h5,h6{
  html {
     line-height: 1.15; /* 1 */
     -webkit-text-size-adjust: 100%; /* 2 */
-    box-sizing: border-box;
   }
   
   /* Sections
