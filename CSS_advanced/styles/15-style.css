@@ -1,5 +1,5 @@
 /*Centering the section titles to the CSS File :)*/
-* {
+*, *::before, *::after{
 box-sizing: border-box;
 }
 html{
