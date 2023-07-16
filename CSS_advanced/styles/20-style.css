@@ -111,7 +111,7 @@
    .row::after{
     content: none;
     display: table;
-    clear: both;
+    float: none;
    }
     :root{
         --color-primary: #d73953;
