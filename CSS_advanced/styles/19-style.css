@@ -98,12 +98,12 @@
     padding: 0;
     list-style: none;
    }
-  ul.col-1-2{
+  .col-1-2{
     width: 0.3333em;
     float: left;
     padding: 0.5rem;
    }
-   ul.col-1-2{
+   .col-1-2{
     width: 0.5em;
     float: left;
     padding: 0.5rem;
