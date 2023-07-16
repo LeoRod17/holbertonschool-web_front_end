@@ -108,10 +108,10 @@
     float: left;
     padding: 0.5rem;
    }
-   .row::after{
+   :after .row{
     content: none;
     display: table;
-    float: none;
+    clear: both;
    }
     :root{
         --color-primary: #d73953;
