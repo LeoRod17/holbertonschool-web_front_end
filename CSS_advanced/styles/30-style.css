@@ -215,7 +215,7 @@
         right: -0.1rem;
         z-index: 1;
     }
-    .card-work .card-inner:hover {
+    .card-work:hover .card-inner {
         background-color: rgba(0, 0, 0, 0.7);
     }
     .card-work .card-title {
@@ -230,7 +230,7 @@
         text-decoration: none;
         padding-top: 45%;
     }
-    .card-work .card-title::after {
+    .card-work .card-title a::after {
         position: absolute;
         top: 0;
         right: 0;
@@ -238,7 +238,7 @@
         bottom: 0;
         content: "";
     }
-    .card-work .card-title:hover {
+    .card-work:hover .card-title {
         opacity: 1;
     }
     :root{
