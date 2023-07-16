@@ -114,8 +114,8 @@
     padding: 0.5rem;
    }
    [data-section-theme=“dark”]{
-    --section-title-color: var(--color-white);
     --text-color: var(--color-white);
+    --section-title-color: var(--color-white);
     background-color: var(--color-black);
    }
     :root{
