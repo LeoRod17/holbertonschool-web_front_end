@@ -108,15 +108,6 @@
     float: left;
     padding: 0.5rem;
    }
-
-   .footer-copyright{
-    margin: 0;
-    font-size: var(--font-size-small);
-    color: var(--text-color);
-   }
-   .footer ul{
-    text-align: right;
-   }
     :root{
         --color-primary: #d73953;
         --color-black: #090909;
@@ -516,6 +507,15 @@
       [hidden] {
         display: none;
       }
+
+      .footer-copyright{
+        margin: 0;
+        font-size: var(--font-size-small);
+        color: var(--text-color);
+       }
+       .footer ul{
+        text-align: right;
+       }
 .footer{
     padding: var(--footer-padding);
 }
